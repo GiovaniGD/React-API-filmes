@@ -9,15 +9,7 @@
   "scripts": {
     "start": "node index"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/GiovaniGD/registro-de-produtos.git"
-  },
   "author": "Giovani Dalmas",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/GiovaniGD/registro-de-produtos/issues"
-  },
-  "homepage": "https://github.com/GiovaniGD/registro-de-produtos#readme",
   "description": ""
 }
